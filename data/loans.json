@@ -1,0 +1,34 @@
+[
+  {
+    "id": "0e9966fe-6f1c-42c8-90ce-9fa181342dd4",
+    "customer_id": "C001",
+    "loan_amount": 10000,
+    "loan_period": 2,
+    "rate_of_interest": 5,
+    "total_amount": 11000,
+    "monthly_emi": 458.33,
+    "transactions": []
+  },
+  {
+    "id": "9d3d7b71-5bc3-40aa-8e2f-2047376df043",
+    "customer_id": "C001",
+    "loan_amount": 10000,
+    "loan_period": 2,
+    "rate_of_interest": 5,
+    "total_amount": 11000,
+    "monthly_emi": 458.33,
+    "transactions": []
+  },
+  {
+    "id": "def18a4b-4053-4765-93a0-cbc4d7010fc1",
+    "customer_id": "C001",
+    "loan_amount": 10000,
+    "loan_period": 2,
+    "rate_of_interest": 5,
+    "total_amount": 11000,
+    "monthly_emi": 458.33,
+    "amount_paid": 0,
+    "emis_paid": 0,
+    "transactions": []
+  }
+]
